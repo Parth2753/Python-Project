@@ -1,2 +1,2 @@
 # Python Repository
-Python Projects coming soon in this repository, so better be ready for it !!
+Python Projects are coming soon on this repository, so better be ready for it !!
